@@ -1,0 +1,38 @@
+02/05/2025, 15:57:14	9d720d7b-297c-4e29-b260-ca4044d816bb	MongoServerSelectionError:142E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/staff/644e4f59cce0a7d6a2324211	http://localhost:3000
+02/05/2025, 15:57:14	b57c803c-cb00-49ad-a375-439100709125	MongoServerSelectionError:142E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	POST	/auth/login/staff	http://localhost:3000
+02/05/2025, 15:57:14	053885e3-7262-4509-b82d-66466d4c7dbd	MongoServerSelectionError:142E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	POST	/auth/login/staff	http://localhost:3000
+02/05/2025, 15:57:14	6b8d8ba9-51c4-4b74-a7ec-8fab0f5e76a5	MongoServerSelectionError:142E0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	POST	/auth/login/student	http://localhost:3000
+03/05/2025, 19:51:20	63ca813e-6e0e-4fdf-8d06-44e2ec322e68	MongoServerSelectionError:70550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 19:51:20	106400af-40b3-4b5e-90a4-fbc8e876b3cb	MongoServerSelectionError:70550000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	6a41d39c-c20e-4499-9826-29ba31b81b2f	MongoServerSelectionError:getaddrinfo EAI_AGAIN ac-91dlebj-shard-00-00.hbjvfhe.mongodb.net	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	2c1df88c-6567-4d14-9585-0b4f0d6d18c8	MongoServerSelectionError:getaddrinfo EAI_AGAIN ac-91dlebj-shard-00-00.hbjvfhe.mongodb.net	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	c408bb8e-527c-4d4a-a1f6-8bbcc1fdc83d	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	e0d3ecac-d2e9-4d68-b6e9-723f42bd5428	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	e3e7fea9-f01a-4637-ae70-84abb9a8fe10	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	4de5ecd3-bea3-4f57-b91c-badfe73c85f9	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	5947c471-f5e3-4a71-a489-9e1295840d94	Error:Not Allowed by CORS	GET	/placement	undefined
+03/05/2025, 20:05:19	69c802cc-78f4-426c-b845-8515c8e30c9a	Error:Not Allowed by CORS	GET	/favicon.ico	undefined
+03/05/2025, 20:05:19	302624be-3b8c-4d37-8071-c19d3f208e70	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	65b259b5-260b-4961-9201-af337d135806	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	6a50aca0-5ef3-4009-aa6b-8c021d2c8a7d	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	4837f65e-1753-4f94-9eef-1b4c36fa0201	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	21491f9c-e06b-4dfa-8cd4-cfdcca715e90	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+03/05/2025, 20:05:19	f30e4f92-f6f0-4c6a-833f-844680e87e5d	MongoServerSelectionError:7C170000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1586:SSL alert number 80
+	GET	/paper/staff/681514ca3d2ff83c09f34600	http://localhost:3000
+04/05/2025, 00:11:57	648c38f0-f8b4-4461-9ce2-429a0c871188	Error:Not Allowed by CORS	GET	/placement	undefined
+04/05/2025, 00:11:57	6f52968b-ffff-47f9-a28f-d343dd77eabe	Error:Not Allowed by CORS	GET	/favicon.ico	undefined
