@@ -1,5 +1,5 @@
 const allowedOrigins = [
-  "https://kollege.onrender.com",
+  "https://cheery-youtiao-820f5b.netlify.app",
   "http://localhost:3000",
 ];
 
