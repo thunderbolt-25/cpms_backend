@@ -48,29 +48,7 @@ Inside config/corsOptions.js, uncomment "|| !origin" part during development
     )
 ```
 
-### Adding HOD
 
-Since admin isn't added yet - HOD manages most things.  
-You'll need to add an HOD manually.  
-🚀 Use a REST API client like Postman/Thunder Client.
-
-Request Method: **POST**  
-Request Address: **<http://localhost:3500/staff>**  
-    // the port should be where you host the server, 3500 by default, and not the react port i.e, 3000
-Request Body:
-
-```javascript
-  {
-"name":"...",
-"email":"...",
-"department":"Computer",
-"username":"...",
-"password":"...",
-"role":"HOD"
-  }
-```
-
-- ❗Don't forget to fill **"..."** with necessary details instead of leaving it as it is.
 
 #### NOTE
 
@@ -84,7 +62,6 @@ Don't forget to comment out "|| !origin" Inside config/corsOptions.js after deve
     )
 ```
 
-Continue to [Kollege Documentation](https://github.com/iafthab/kollege/#readme)
 
 ### Still getting errors?
 
@@ -106,6 +83,3 @@ const allowedOrigins = [
 
 [CPMS](https://github.com/thunderbolt-25/cpms_frontend)
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
