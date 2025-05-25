@@ -1,21 +1,20 @@
-# KOLLEGE API
+# CPMS(Backend)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-REST API for [kollege](https://github.com/iafthab/kollge)
+REST API for [CPMS](https://github.com/thunderbolt-25/cpms_frontend)
 
 ## Setting Up
 
 Clone the project:
 
 ```bash
-  git clone https://github.com/iafthab/kollege_api.git
+  git clone https://github.com/thunderbolt-25/cpms_backend.git
 ```
 
 Change Directory:
 
 ```bash
-  cd kollege_api
+  cd cpms_backend
 ```
 
 Install dependencies:
@@ -99,20 +98,13 @@ const allowedOrigins = [
 ];
 ```
 
-## Contact
-
-Errors are bound to happen and the documentation is incomplete.  
-I'd love to hear feedbacks and suggestions.  
-In any case, start a conversation: [LinkedIn](https://www.linkedin.com/in/iafthab) [Telegram](https://tttttt.me/LazySage01) [Mail](mailto:afthabiqbal123@gmail.com)(Make sure your mail doesn't get flagged as spam/junk)  
-Thank You ❤️.
-
 ## Acknowledgements
 
 - Node,js Tutorial by [@gitdagray](https://github.com/gitdagray)
 
 ## Related
 
-[Kollege](https://github.com/iafthab/kollege)
+[CPMS](https://github.com/thunderbolt-25/cpms_frontend)
 
 ## License
 
